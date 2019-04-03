@@ -1,0 +1,10 @@
+C:\skb\Tickets.csproj\bin\Debug\Tickets.exe.config
+C:\skb\Tickets.csproj\bin\Debug\Tickets.exe
+C:\skb\Tickets.csproj\bin\Debug\Tickets.pdb
+C:\skb\Tickets.csproj\bin\Debug\nunit.framework.dll
+C:\skb\Tickets.csproj\bin\Debug\nunitlite.dll
+C:\skb\Tickets.csproj\obj\Debug\Tickets.csprojAssemblyReference.cache
+C:\skb\Tickets.csproj\obj\Debug\Tickets.csproj.CoreCompileInputs.cache
+C:\skb\Tickets.csproj\obj\Debug\Tickets.csproj.CopyComplete
+C:\skb\Tickets.csproj\obj\Debug\Tickets.exe
+C:\skb\Tickets.csproj\obj\Debug\Tickets.pdb
